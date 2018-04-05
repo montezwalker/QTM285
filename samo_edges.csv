@@ -1,0 +1,363 @@
+﻿source,target,weight
+Abdera,Alabanda,4
+Abdera,Bargylia,4
+Abdera,Ephesos,6
+Abdera,Halikarnassos,6
+Abdera,Iasos,4
+Abdera,KalchedonChalcedon,8
+Abdera,Kaunos,10
+Abdera,Klazomenai,10
+Abdera,Kolophon,4
+Abdera,Kos,6
+Abdera,Kyme,4
+Abdera,Maroneia,8
+Abdera,Methymna,8
+Abdera,Mytilene Lesbos,4
+Abdera,Naxos,4
+Abdera,Parium,16
+Abdera,Paros,6
+Abdera,Pergamon,6
+Abdera,Priene,8
+Abdera,Rhodes,8
+Abdera,Samos,8
+Abdera,Samothrace,2
+Abdera,Stratonikeia,6
+Abdera,Teos,2
+Abdera,Thasos,4
+Abydos,Odessos,3
+"Aigai (Cilicia, per Robert)",Alexandria,4
+"Aigai (Cilicia, per Robert)",Byzantion,2
+"Aigai (Cilicia, per Robert)",Chios Ins.,24
+"Aigai (Cilicia, per Robert)",Dardanos,4
+"Aigai (Cilicia, per Robert)",Eresos,4
+"Aigai (Cilicia, per Robert)",Halikarnassos,8
+"Aigai (Cilicia, per Robert)",Kyzikos,4
+"Aigai (Cilicia, per Robert)",Magnesia ad MaeandrumLeukophrys,1
+"Aigai (Cilicia, per Robert)",Myrina Lemnos,4
+"Aigai (Cilicia, per Robert)",Nysa,2
+"Aigai (Cilicia, per Robert)",Phokaia,4
+"Aigai (Cilicia, per Robert)",Serrhai,1
+"Aigai (Cilicia, per Robert)",Styberra,1
+"Aigai (Cilicia, per Robert)",Thasos,1
+"Aigai (Cilicia, per Robert)",TroyIlium,2
+Alabanda,Astypalaia,3
+Alabanda,Bargylia,4
+Alabanda,Dardanos,4
+Alabanda,Ephesos,16
+Alabanda,Halikarnassos,4
+Alabanda,Iasos,4
+Alabanda,Kaunos,12
+Alabanda,Keramos,4
+Alabanda,Klazomenai,2
+Alabanda,Kos,7
+Alabanda,Kyme,4
+Alabanda,Kyzikos,8
+Alabanda,Lampsakos,4
+Alabanda,Maroneia,4
+Alabanda,Mytilene Lesbos,4
+Alabanda,Naxos,4
+Alabanda,Paros,6
+Alabanda,Pergamon,6
+Alabanda,Priene,4
+Alabanda,Rhodes,12
+Alabanda,Samos,6
+Alabanda,Samothrace,3
+Alabanda,Stratonikeia,6
+Alexandria,Byzantion,8
+Alexandria,Magnesia ad MaeandrumLeukophrys,4
+Alexandria,Serrhai,4
+Alexandria,Styberra,4
+Alexandria,Thasos,4
+Alexandria,TroyIlium,8
+Alexandria Troas,Aspendos,1
+Alexandria Troas,Tegea,1
+Alexandria Troas,Thera,1
+Alexandria Troas,Torone 2,1
+Alopekonnesos,Tralles,2
+Amphipolis (Maced),Beroia,36
+Amphipolis (Maced),Thessalonike,27
+Antioch on the Maeander,ArsinoePatara,2
+Antioch on the Maeander,Priapos,2
+Antioch on the Maeander,Rhodes,2
+Antioch on the Maeander,Thasos,4
+Apameia Kibotos/Kelainai,Apameia KibotosKelainai,1
+Arsinoe/Patara,ArsinoePatara,1
+Arsinoe/Patara,Priapos,1
+Arsinoe/Patara,Rhodes,1
+Arsinoe/Patara,Thasos,2
+Aspendos,Tegea,1
+Aspendos,Thera,1
+Aspendos,Torone 2,1
+Astypalaia,Ephesos,12
+Astypalaia,Klazomenai,6
+Astypalaia,Kos,3
+Astypalaia,Samothrace,3
+Athens,Imbros,11
+Azoros,Kassandreia,1
+Bargylia,Ephesos,6
+Bargylia,Iasos,4
+Bargylia,Kaunos,6
+Bargylia,Klazomenai,2
+Bargylia,Kos,8
+Bargylia,Kyme,4
+Bargylia,Maroneia,4
+Bargylia,Mytilene Lesbos,4
+Bargylia,Naxos,4
+Bargylia,Paros,6
+Bargylia,Pergamon,6
+Bargylia,Priene,4
+Bargylia,Rhodes,8
+Bargylia,Samos,6
+Bargylia,Samothrace,2
+Bargylia,Stratonikeia,6
+Beroia,Thessalonike,12
+Byzantion,Magnesia ad MaeandrumLeukophrys,2
+Byzantion,PerinthusHeraclea,4
+Byzantion,Serrhai,2
+Byzantion,Styberra,2
+Byzantion,Thasos,2
+Byzantion,TroyIlium,4
+Chios Ins.,Dardanos,24
+Chios Ins.,Eresos,24
+Chios Ins.,Halikarnassos,48
+Chios Ins.,Kyzikos,24
+Chios Ins.,Myrina Lemnos,24
+Chios Ins.,Nysa,12
+Chios Ins.,Pergamon,1
+Chios Ins.,Philippi,1
+Chios Ins.,Phokaia,24
+Chios Ins.,Rome,271
+Dardanos,Eresos,4
+Dardanos,Halikarnassos,12
+Dardanos,Kaunos,6
+Dardanos,Keramos,4
+Dardanos,Kyzikos,8
+Dardanos,Myrina Lemnos,4
+Dardanos,Nysa,2
+Dardanos,Phokaia,4
+Dardanos,Rome,42
+Ephesos,Halikarnassos,6
+Ephesos,Iasos,6
+Ephesos,Kaunos,9
+Ephesos,Klazomenai,8
+Ephesos,Kolophon,4
+Ephesos,Kos,13
+Ephesos,Kyme,12
+Ephesos,Kyzikos,6
+Ephesos,Lampsakos,12
+Ephesos,Larisa Thessaly,12
+Ephesos,Maroneia,6
+Ephesos,Myra,9
+Ephesos,Mytilene Lesbos,6
+Ephesos,Naxos,6
+Ephesos,Paros,9
+Ephesos,Pergamon,9
+Ephesos,Priene,6
+Ephesos,Rhodes,54
+Ephesos,Samos,9
+Ephesos,Samothrace,16
+Ephesos,Stratonikeia,9
+Ephesos,Thasos,12
+Ephesos,Xanthus (Lycia),3
+Eresos,Halikarnassos,8
+Eresos,Kolophon,4
+Eresos,Kyme,4
+Eresos,Kyzikos,8
+Eresos,Myrina Lemnos,4
+Eresos,Nysa,2
+Eresos,Phokaia,4
+Eresos,Priene,2
+Eresos,Teos,4
+Erythrai,Myrina Lemnos,6
+Halikarnassos,Kaunos,6
+Halikarnassos,Keramos,4
+Halikarnassos,Klazomenai,6
+Halikarnassos,Kolophon,6
+Halikarnassos,Kyzikos,12
+Halikarnassos,Maroneia,6
+Halikarnassos,Myrina Lemnos,8
+Halikarnassos,Nysa,4
+Halikarnassos,Phokaia,8
+Halikarnassos,Priene,6
+Halikarnassos,Thasos,6
+Herakleia apo Strymonos,Thessalonike,2
+Iasos,Kaunos,6
+Iasos,Kos,6
+Iasos,Kyme,4
+Iasos,Maroneia,4
+Iasos,Mytilene Lesbos,4
+Iasos,Naxos,4
+Iasos,Paros,6
+Iasos,Pergamon,6
+Iasos,Priene,4
+Iasos,Rhodes,8
+Iasos,Samos,6
+Iasos,Samothrace,2
+Iasos,Stratonikeia,6
+Kalchedon/Chalcedon,KalchedonChalcedon,17
+Kalchedon/Chalcedon,Kaunos,8
+Kalchedon/Chalcedon,Klazomenai,12
+Kalchedon/Chalcedon,Kolophon,8
+Kalchedon/Chalcedon,Methymna,16
+Kalchedon/Chalcedon,Parium,32
+Kalchedon/Chalcedon,Samos,4
+Kalchedon/Chalcedon,Teos,4
+Kaunos,Keramos,6
+Kaunos,Klazomenai,6
+Kaunos,Kolophon,4
+Kaunos,Kos,9
+Kaunos,Kyme,6
+Kaunos,Kyzikos,6
+Kaunos,Maroneia,6
+Kaunos,Methymna,8
+Kaunos,Mytilene Lesbos,6
+Kaunos,Naxos,6
+Kaunos,Parium,16
+Kaunos,Paros,9
+Kaunos,Pergamon,9
+Kaunos,Priene,6
+Kaunos,Rhodes,12
+Kaunos,Samos,11
+Kaunos,Samothrace,3
+Kaunos,Stratonikeia,9
+Kaunos,Teos,2
+Keramos,Kyzikos,4
+Klazomenai,Kolophon,6
+Klazomenai,Kos,6
+Klazomenai,Maroneia,4
+Klazomenai,Methymna,12
+Klazomenai,Parium,24
+Klazomenai,Priene,4
+Klazomenai,Samos,3
+Klazomenai,Samothrace,2
+Klazomenai,Teos,3
+Klazomenai,Thasos,4
+Kolophon,Kolophon,13
+Kolophon,Kyme,4
+Kolophon,Kyzikos,4
+Kolophon,Methymna,8
+Kolophon,Parium,16
+Kolophon,Priene,2
+Kolophon,Samos,2
+Kolophon,Teos,6
+Kos,Kyme,6
+Kos,Maroneia,6
+Kos,Mytilene Lesbos,6
+Kos,Naxos,6
+Kos,Paros,9
+Kos,Pergamon,9
+Kos,Priene,6
+Kos,Rhodes,12
+Kos,Samos,15
+Kos,Samothrace,8
+Kos,Stratonikeia,9
+Kos,Teos,2
+Kyme,Kyzikos,4
+Kyme,Larisa Thessaly,8
+Kyme,Maroneia,4
+Kyme,Mytilene Lesbos,4
+Kyme,Naxos,4
+Kyme,Paros,6
+Kyme,Pergamon,6
+Kyme,Priene,6
+Kyme,Rhodes,8
+Kyme,Samos,6
+Kyme,Samothrace,4
+Kyme,Stratonikeia,6
+Kyme,Teos,4
+Kyzikos,Lampsakos,4
+Kyzikos,Mylasa,2
+Kyzikos,Myrina Lemnos,4
+Kyzikos,Nysa,2
+Kyzikos,Phokaia,4
+Kyzikos,Priene,2
+Kyzikos,Rhodes,4
+Kyzikos,Teos,4
+Lampsakos,Myra,6
+Lampsakos,Rhodes,4
+Lampsakos,Samothrace,4
+Lampsakos,Thasos,8
+Larisa Thessaly,Samothrace,4
+Magnesia ad Maeandrum/Leukophrys,Magnesia ad MaeandrumLeukophrys,1
+Magnesia ad Maeandrum/Leukophrys,Serrhai,1
+Magnesia ad Maeandrum/Leukophrys,Styberra,1
+Magnesia ad Maeandrum/Leukophrys,Thasos,1
+Magnesia ad Maeandrum/Leukophrys,TroyIlium,2
+Maroneia,Mytilene Lesbos,4
+Maroneia,Naxos,4
+Maroneia,Paros,6
+Maroneia,Pergamon,6
+Maroneia,Priene,8
+Maroneia,Rhodes,8
+Maroneia,Samos,6
+Maroneia,Samothrace,2
+Maroneia,Stratonikeia,6
+Maroneia,Thasos,16
+Methymna,Parium,32
+Methymna,Samos,4
+Methymna,Teos,4
+Myra,Samothrace,6
+Myrina Lemnos,Nysa,2
+Myrina Lemnos,Phokaia,4
+Mytilene Lesbos,Naxos,4
+Mytilene Lesbos,Paros,6
+Mytilene Lesbos,Pergamon,6
+Mytilene Lesbos,Priene,4
+Mytilene Lesbos,Rhodes,8
+Mytilene Lesbos,Samos,6
+Mytilene Lesbos,Samothrace,2
+Mytilene Lesbos,Stratonikeia,6
+Naxos,Paros,6
+Naxos,Pergamon,6
+Naxos,Priene,4
+Naxos,Rhodes,8
+Naxos,Samos,6
+Naxos,Samothrace,2
+Naxos,Stratonikeia,6
+Nysa,Phokaia,2
+Parium,Samos,8
+Parium,Teos,8
+Paros,Pergamon,9
+Paros,Priene,6
+Paros,Rhodes,12
+Paros,Samos,9
+Paros,Samothrace,3
+Paros,Stratonikeia,9
+Pergamon,Priene,6
+Pergamon,Rhodes,12
+Pergamon,Rome,19
+Pergamon,Samos,9
+Pergamon,Samothrace,3
+Pergamon,Stratonikeia,9
+Perinthus/Heraclea,PerinthusHeraclea,4
+Philippi,Thasos,5
+Priapos,Rhodes,1
+Priapos,Thasos,2
+Priene,Rhodes,8
+Priene,Samos,14
+Priene,Samothrace,4
+Priene,Stratonikeia,6
+Priene,Teos,2
+Priene,Thasos,4
+Rhodes,Samos,12
+Rhodes,Samothrace,4
+Rhodes,Stratonikeia,12
+Rhodes,Thasos,2
+Rhodes,Xanthus (Lycia),12
+Samos,Samothrace,13
+Samos,Stratonikeia,9
+Samos,Teos,4
+Samothrace,Stratonikeia,3
+Samothrace,Teos,2
+Samothrace,Thasos,8
+Sardis,Stratonikeia,2
+Serrhai,Styberra,1
+Serrhai,Thasos,1
+Serrhai,TroyIlium,2
+Styberra,Thasos,1
+Styberra,TroyIlium,2
+Tegea,Thera,1
+Tegea,Torone 2,1
+Thasos,TroyIlium,2
+Thera,Torone 2,1
+Troy/Ilium,TroyIlium,13
